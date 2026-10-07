@@ -90,4 +90,8 @@ This is a beginner-friendly Python project created to practice programming funda
 
 Built with Python 🐍
 
-Author:-
+👨‍💻 Author
+
+Aryan Sharma
+
+A beginner Python project created for learning and practicing Python fundamentals.
