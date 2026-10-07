@@ -44,7 +44,7 @@ Make sure Python 3 is installed on your computer.
 
 2. Clone this repository
 
-git clone https://github.com/your-username/secure-password-generator.git
+git clone https://github.com/AryanSharma1105/secure-password-generator.git
 
 3. Run the program
 
